@@ -1,0 +1,2 @@
+model_checkpoint_path: "PH60_pretrain.ckpt"
+all_model_checkpoint_paths: "PH60_pretrain.ckpt"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "PH30_train_HbA1c.ckpt"
+all_model_checkpoint_paths: "PH30_train_HbA1c.ckpt"
